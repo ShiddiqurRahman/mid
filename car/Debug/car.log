@@ -1,0 +1,14 @@
+﻿Build started 18-Nov-16 10:42:32 PM.
+     1>Project "D:\dotnet\car\car\car.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         D:\INSTALLED GAME\visual 12\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\dotnet\car\car\source.cpp(27): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\INSTALLED GAME\visual 12\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\dotnet\car\Debug\car.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\dotnet\car\Debug\car.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\dotnet\car\Debug\car.lib" /MACHINE:X86 Debug\Source.obj
+         car.vcxproj -> D:\dotnet\car\Debug\car.exe
+     1>Done Building Project "D:\dotnet\car\car\car.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.74
